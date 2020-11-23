@@ -1,2 +1,0 @@
-# Mynewproject
-Web Development
